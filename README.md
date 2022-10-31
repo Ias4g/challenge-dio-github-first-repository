@@ -1,8 +1,6 @@
-# Desafio de projeto
+# Desafio de projeto da DIO
 
-## sobre Git/GitHub da Dio - Digital Innovation One Inc.
-
-Meu primeiro repositorio criado para desafio de projeto.
+Meu primeiro repositorio criado para o desafio de projeto sobre Git/GitHub da Dio - Digital Innovation One Inc.
 
 ## Links úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
