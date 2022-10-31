@@ -45,7 +45,7 @@
 Nos sistemas UNIXs usamos o comando ``rm -rf`` para apagar a pasta com todos os arquivos dentro.
 
 ### Instalando o GIT
-Downloads:
-- [Windos](https://git-scm.com/download/win)
+> Downloads:
+- [Windows](https://git-scm.com/download/win)
 - [Linux](https://git-scm.com/download/linux)
 - [Mac](https://git-scm.com/download/mac)
