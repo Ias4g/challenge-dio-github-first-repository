@@ -22,15 +22,15 @@
 | Windows       | Unix      | Descrição |
 |---------------|-----------|-----------|
 | cd            | cd        | Funciona nos dois sistemas e serve para navegar em diretorios do sistema |
-| dir           | ls        | serve para listar pastas/arquivos do diretorio atual em seus respectivos sistemas. |
+| dir           | ls        | Serve para listar pastas/arquivos do diretorio atual em seus respectivos sistemas. |
 | mkdir         | mkdir     |           |
 | del/rmdir     | rm -rf    |           |
 
 
 #### Flags de comandos
 
-``cd /alguma coisa`` Funciona nos dois sistemas e serve para navegar em diretorios do sistema ``ex: cd /windows`` ou ``cd /etc``.
+> ``cd /algumacoisa`` em ambos sistemas te leva para o diretorio ``ex: cd /windows`` ou ``cd /etc``.
 
-``cd ..`` Faz que que vc volte em diretorios anteriores.
+> ``cd ..`` Faz que que vc volte em diretorios anteriores.
 
-``dir`` no Windows e ``ls`` no Unix estes comandos serve para listar pastas/arquivos do diretorio atual em seus respectivos sistemas.
+> ``dir`` no Windows e ``ls`` no Unix estes comandos serve para listar pastas/arquivos do diretorio atual em seus respectivos sistemas.
