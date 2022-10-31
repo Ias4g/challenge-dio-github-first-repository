@@ -16,14 +16,18 @@
 - Criar pastas/arquivos
 - Deletar pastas/arquivos
 
-### Bora começar... Abra seu terminal de preferencia, e vamos praticar.
 
-| Windows       | Unix      |
-|---------------|-----------|
-| cd            | cd        |
-| dir           | ls        |
-| mkdir         | mkdir     |
-| del/rmdir     | rm -rf    |
+#### Bora começar... Abra seu terminal de preferencia, e vamos praticar.
+
+| Windows       | Unix      | Descrição |
+|---------------|-----------|-----------|
+| cd            | cd        | Funciona nos dois sistemas e serve para navegar em diretorios do sistema |
+| dir           | ls        | serve para listar pastas/arquivos do diretorio atual em seus respectivos sistemas. |
+| mkdir         | mkdir     |           |
+| del/rmdir     | rm -rf    |           |
+
+
+#### Flags de comandos
 
 ``cd /alguma coisa`` Funciona nos dois sistemas e serve para navegar em diretorios do sistema ``ex: cd /windows`` ou ``cd /etc``.
 
