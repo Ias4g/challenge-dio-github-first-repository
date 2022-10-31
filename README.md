@@ -29,8 +29,6 @@
 
 #### Flags de comandos
 
-> ``cd /algumacoisa`` em ambos sistemas te leva para o diretorio ``ex: cd /windows`` ou ``cd /etc``.
+``cd /algumacoisa`` em ambos sistemas te leva para o diretorio ``ex: cd /windows`` ou ``cd /etc``.
 
-> ``cd ..`` Faz que que vc volte em diretorios anteriores.
-
-> ``dir`` no Windows e ``ls`` no Unix estes comandos serve para listar pastas/arquivos do diretorio atual em seus respectivos sistemas.
+``cd ..`` Faz que que vc volte em diretorios anteriores.
