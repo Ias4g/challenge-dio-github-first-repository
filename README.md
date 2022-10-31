@@ -37,6 +37,9 @@
 ``cd /algumacoisa`` em ambos sistemas te leva para o diretorio ``ex: cd /windows`` ou ``cd /etc``.
 
 ``cd ..`` Faz que que vc volte em diretorios anteriores.
+
 ``del`` no Windos apagar arquivos dentro de uma pasta.
+
 ``rmdir nomedapasta /S /Q`` no Windows apaga a pasta com todos os arquivos dentro.
+
 Nos sistemas UNIXs usamos o comando ``rm -rf`` para apagar a pasta com todos os arquivos dentro.
